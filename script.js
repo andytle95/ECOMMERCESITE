@@ -1,0 +1,3 @@
+function Button(val) {
+    console.log(val);
+}
